@@ -25,5 +25,6 @@ python3 silent_video_creator.py --help
 
 These scripts were partially generated with the assistance of ChatGPT. 
 
+## License
 
-
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
