@@ -2,11 +2,12 @@
 
 A set of Python scripts that leverage [ffmpeg](https://ffmpeg.org/) for basic video operations:
 
-- **silent\_video\_creator.py**: Remove audio track from a video.
-- **video\_speedup.py**: Speed up video playback.
-- **trim\_video.py**: Trim a segment from the beginning of a video.
-- **extract\_audio\_mp3.py**: Extract MP3 audio from a video file.
-- **downsize\_movie.py**: Resize or downscale a video while preserving aspect ratio.
+- **silent_video_creator.py**: Remove audio track from a video.
+- **video_speedup.py**: Speed up video playback.
+- **trim_video.py**: Trim a segment from the beginning of a video.
+- **extract_audio_mp3.py**: Extract MP3 audio from a video file.
+- **downsize_movie.py**: Resize or downscale a video while preserving aspect ratio.
+- **video_merger.py**: Merge multiple movie files (MOV, MP4, etc.) into a single output file.
 
 ## Installation
 
@@ -23,7 +24,7 @@ python3 silent_video_creator.py --help
 
 ## Acknowledgment
 
-These scripts were partially generated with the assistance of ChatGPT. 
+These scripts were partially generated with the assistance of ChatGPT.
 
 ## License
 
