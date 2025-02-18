@@ -1,6 +1,6 @@
 # ffmpeg-scripts-collection
 
-A set of Python scripts that leverage [ffmpeg](https://ffmpeg.org/) for basic video operations:
+A set of Python scripts that leverage [ffmpeg](https://ffmpeg.org/) for basic video **and audio** operations:
 
 - **silent_video_creator.py**: Remove audio track from a video.
 - **video_speedup.py**: Speed up video playback.
@@ -8,6 +8,8 @@ A set of Python scripts that leverage [ffmpeg](https://ffmpeg.org/) for basic vi
 - **extract_audio_mp3.py**: Extract MP3 audio from a video file.
 - **downsize_movie.py**: Resize or downscale a video while preserving aspect ratio.
 - **video_merger.py**: Merge multiple movie files (MOV, MP4, etc.) into a single output file.
+- **video_silence_remover.py**: Convert video files to WAV, detect and remove silent parts, and then convert them to MP4.
+- **audio_silence_remover.py**: Convert audio files to WAV, detect and remove silent parts, and then convert them to MP3.
 
 ## Installation
 
